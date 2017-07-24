@@ -1,0 +1,184 @@
+
+
+.headingname {
+	color: white;
+}
+
+.heading {
+	font-family: font-family: 'Georgia', Times, Times New Roman, serif;
+	background-color: #ffffff;
+}
+
+#mainbiopic {
+	width: 250px;
+	height: 250px;
+}
+
+.aboutme {
+	padding-left: 45px;
+	color: #4aaaa5
+}
+
+body {
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	}
+
+li {
+	float: right;
+	padding: 8px;
+}
+
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+size: 270px;
+top: 600px;
+background-color: #ffffff;
+}
+
+#mainbio {
+	width: 650px;
+	height: 530px;
+	padding-right: 70px;
+	font-size: 18px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	line-height: 200%;
+	border:1px solid #dddddd;
+	background-color: #ffffff
+	
+}
+
+.connectwithme {
+	font-size: 24px;
+}
+
+.connect {
+	position: relative;
+	bottom: 532px;
+	left: 770px;
+	width: 200px;
+	height: 150px;
+	padding: 20px;
+	border:1px solid lightgrey;
+	background-color: #ffffff;
+	z-index: 4;
+}
+.pic {
+	border-color: black;
+
+}
+
+.pic {
+	height: 60px;
+	width: 60px;
+}
+
+#Biography {
+	 padding-left: 45px
+}
+
+#line {
+	border: 2px solid #4aaaa5
+}
+
+#footer {
+	text-align: center;
+	background-color: #666666;
+	height: 100px;
+}
+
+@media screen and (max-width: 980px){
+#mainbio {
+	width: 500px;
+	height: 570px;
+	font-size: 15px;
+
+}
+#mainbiopic {
+	width: 200px;
+	height: 200px;
+}
+
+.connect {
+	position: relative;
+	bottom: 570px;
+	left: 590px;
+
+}
+
+@media screen and (max-width: 768px){
+#mainbio {
+	width: 350px;
+	height: 520px;
+	font-size: 13px;
+
+}
+#mainbiopic {
+	width: 130px;
+	height: 130px;
+}
+
+.connectwithme {
+	font-size: 16px;
+}
+
+.connect {
+	position: relative;
+	bottom: 522px;
+	left: 430px;
+	width: 120px;
+	height: 100px;
+}	
+
+.pic {
+	width:35px;
+	height: 35px;
+}
+
+}
+
+@media screen and (max-width: 640px){
+
+.headingname {
+	font-size: 22px;
+}
+
+#mainbio {
+	width: 260px;
+	height: 420px;
+	font-size: 11px;
+	padding-right: 20px
+}
+
+#mainbiopic {
+	width: 90px;
+	height: 90px;
+
+}
+
+.pic {
+	width: 27px;
+	height: 27px;
+}
+
+.connect {
+	position: relative;
+	bottom: 422px;
+	left: 300px;
+	width: 110px;
+	height: 90px;
+}	
+
+
+.heading {
+	position: static;
+	font-size: 15px;
+}
+
+
+
